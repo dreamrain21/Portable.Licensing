@@ -33,7 +33,7 @@
     <DocumentationFile>..\..\Build\Portable.Licensing.XML</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
     <AssemblyOriginatorKeyFile>Dreamrain.pfx</AssemblyOriginatorKeyFile>
